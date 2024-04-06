@@ -4,4 +4,4 @@ Role- Developer
 Company- PS
 Department- Engineering
 Office Address- Noida
-Manger- Gaurav Sharma
+Open Source- Python
